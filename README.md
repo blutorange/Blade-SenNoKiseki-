@@ -1,0 +1,4 @@
+Blade-SenNoKiseki-
+==================
+
+Codegolf challenge.
