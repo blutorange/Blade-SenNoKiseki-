@@ -32,22 +32,22 @@ Codegolf challenge.
 
 
 # Preparation
-    - Take 32 cards as described above, and split into two decks
-    - 2 players, one deck of 16 cards each
-    - Each player draws 10 cards from his deck
-    - Goto Initialization.
+ - Take 32 cards as described above, and split into two decks
+ - 2 players, one deck of 16 cards each
+ - Each player draws 10 cards from his deck
+ - Goto Initialization.
 
 # Initialization
-    (deck empty, hand empty)
-        - Draw
-    (deck empty, hand not empty)
-        - place card from hand on the field
-    (deck not empty)
-        - draw card, place on the field
+ - (deck empty, hand empty)
+   - Draw
+ - (deck empty, hand not empty)
+   - place card from hand on the field
+ - (deck not empty)
+   - draw card, place on the field
   
-    - Repeat until score is not equal.
-    - Player with lower score begins.
-    - Goto Turn.
+ - Repeat until score is not equal.
+ - Player with lower score begins.
+ - Goto Turn.
 
 # Turn
     (hand empty)
@@ -75,7 +75,7 @@ Codegolf challenge.
                         - Goto opponent's Turn.
 
 # Score Calculation
-    - add values of all cards on your field, excluding invalidated cards
+ - add values of all cards on your field, excluding invalidated cards
 
 # Field Reevaluation
     (card is 2-7)
@@ -102,15 +102,15 @@ Codegolf challenge.
             - score +0
    
 # Input
-    - your program (cli) gets called once for each decision it need to make
-    - ie, choosing a card to play, or choosing an initial card when there are no cards left in your deck
-    - stdin
-    - one line, including a newline, with a json object representing the current state
+ - your program (cli) gets called once for each decision it need to make
+ - ie, choosing a card to play, or choosing an initial card when there are no cards left in your deck
+ - stdin
+ - one line, including a newline, with a json object representing the current state
 
 # Output
-    - stdout
-    - a number, including a newline, representing the card you wish to play
-    - 0 corresponds to the first card in the json["player"]["hand"] array    
+ - stdout
+ - a number, including a newline, representing the card you wish to play
+ - 0 corresponds to the first card in the json["player"]["hand"] array    
 
 # Sample JSON input
 
