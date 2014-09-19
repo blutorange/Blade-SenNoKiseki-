@@ -40,12 +40,12 @@ Codegolf challenge.
 
 # Initialization
 
- - (deck empty, hand empty)
-   - Draw
- - (deck empty, hand not empty)
-   - place card from hand on the field
- - (deck not empty)
-   - draw card, place on the field
+    (deck empty, hand empty)
+        - Draw
+    (deck empty, hand not empty)
+        - place card from hand on the field
+    (deck not empty)
+        - draw card, place on the field
   
  - Repeat until score is not equal.
  - Player with lower score begins.
