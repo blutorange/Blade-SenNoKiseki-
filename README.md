@@ -96,29 +96,9 @@ Codegolf challenge.
         (otherwise)
             - remove your invalidated card if applicable
     
-# Scoring
+# Scoring / Input / Output
 
-    - both players start with a score of 0
-    - N (tbd - to be decided) turns, timelimit T (tbd), for each turn:
-        (Draw)
-            - score +1
-        (Win)
-            - score +2
-        (Lose)
-            - score +0
-   
-# Input
-
- - your program (cli) gets called once for each decision it need to make
- - ie, choosing a card to play, or choosing an initial card when there are no cards left in your deck
- - stdin
- - one line, including a newline, with a json object representing the current state
-
-# Output
-
- - stdout
- - a number, including a newline, representing the card you wish to play
- - 0 corresponds to the first card in the json["player"]["hand"] array    
+See codegolf link above.
 
 # Sample JSON input
 
