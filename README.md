@@ -90,11 +90,11 @@ Codegolf challenge.
     (card is B)
         - remove opponent's invalidated card if applicable
         - invalidate most recently played card on the opponent's field
-        (card is 1)
-            (invalidated card on your field)
-                - validate this card
-            (otherwise)
-                - remove your invalidated card if applicable
+    (card is 1)
+        (invalidated card on your field)
+            - validate this card
+        (otherwise)
+            - remove your invalidated card if applicable
     
 # Scoring
 
