@@ -3,6 +3,8 @@ Blade-SenNoKiseki-
 
 Codegolf challenge.
 
+![Image of Yaktocat](banner.png)
+
 # Detailed Rules
 
 32 cards:
