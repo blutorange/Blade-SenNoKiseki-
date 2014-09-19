@@ -96,6 +96,12 @@ Codegolf challenge.
         (otherwise)
             - remove your invalidated card if applicable
     
+# Controller
+
+    ruby controller.rb <playerfile> <timelimit> <rounds> <quiet>
+
+See `players.txt` for the syntax of the `playerfile`. Set quiet to `y` to suppress debug output. Set it to `n` to to get a lot of information about the match, use this for debugging or if the rules are unclear. See below for a sample match with quiet set to `n`.
+
 # Scoring / Input / Output
 
 See codegolf link above.
