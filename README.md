@@ -1,7 +1,7 @@
 Blade-SenNoKiseki-
 ==================
 
-Codegolf challenge.
+[Codegolf challenge.](http://meta.codegolf.stackexchange.com/questions/2140/sandbox-for-proposed-challenges/2217#2217)
 
 ![Image of Yaktocat](banner.png)
 
