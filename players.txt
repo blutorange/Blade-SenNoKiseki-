@@ -1,0 +1,5 @@
+null ~ ./players/null/null.out
+random ~ ruby ./players/random/random.rb
+basic ~ ruby ./players/basic/basic.rb
+matcher ~ ruby ./players/matcher/matcher.rb
+human ~ ruby ./players/human/human.rb

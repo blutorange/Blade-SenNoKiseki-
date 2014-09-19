@@ -1,0 +1,125 @@
+{
+  "file": "/home/mad_gaksha/Applications/cg_blade/files/basic",
+  "turn": 15,
+  "player": {
+    "hand": [
+      {
+        "type": 8,
+        "value": 1,
+        "valid": true
+      },
+      {
+        "type": 0,
+        "value": 1,
+        "valid": true
+      },
+      {
+        "type": 1,
+        "value": 1,
+        "valid": true
+      }
+    ],
+    "field": [
+      {
+        "type": 8,
+        "value": 1,
+        "valid": true
+      },
+      {
+        "type": 3,
+        "value": 3,
+        "valid": true
+      },
+      {
+        "type": 2,
+        "value": 2,
+        "valid": true
+      },
+      {
+        "type": 3,
+        "value": 3,
+        "valid": true
+      },
+      {
+        "type": 5,
+        "value": 5,
+        "valid": true
+      },
+      {
+        "type": 7,
+        "value": 7,
+        "valid": true
+      },
+      {
+        "type": 2,
+        "value": 2,
+        "valid": true
+      },
+      {
+        "type": 7,
+        "value": 7,
+        "valid": true
+      }
+    ],
+    "deck": 5,
+    "score": 30,
+    "lastmove": {
+      "type": 6,
+      "value": 6,
+      "valid": true
+    }
+  },
+  "opponent": {
+    "hand": 2,
+    "field": [
+      {
+        "type": 3,
+        "value": 3,
+        "valid": true
+      },
+      {
+        "type": 2,
+        "value": 2,
+        "valid": true
+      },
+      {
+        "type": 3,
+        "value": 3,
+        "valid": true
+      },
+      {
+        "type": 4,
+        "value": 4,
+        "valid": true
+      },
+      {
+        "type": 4,
+        "value": 4,
+        "valid": true
+      },
+      {
+        "type": 6,
+        "value": 6,
+        "valid": true
+      },
+      {
+        "type": 4,
+        "value": 4,
+        "valid": true
+      },
+      {
+        "type": 6,
+        "value": 6,
+        "valid": true
+      }
+    ],
+    "deck": 5,
+    "score": 32,
+    "lastmove": {
+      "type": 8,
+      "value": 1,
+      "valid": true
+    }
+  }
+}
+

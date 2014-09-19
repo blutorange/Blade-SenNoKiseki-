@@ -1,0 +1,323 @@
+Match between both players starts.
+<basic> vs. <basic>
+
+
+Initializing round 0.
+Each player gets a deck of 16 cards.
+Player 0: 3 6 5 3 6 7 B 5 2 4 B B 5 1 B B
+Player 1: 1 2 4 4 3 3 M B M 5 2 6 7 4 2 M
+Each player draws 10 cards.
+Player 0: 1 2 4 5 5 B B B B B
+Player 1: 2 2 4 5 6 7 B M M M
+Cards remaining in each deck:
+Player 0: 3 6 5 3 6 7
+Player 1: 1 2 4 4 3 3
+
+
+Round 0 starts.
+
+
+Field initialization starts.
+Player 0 draws initial card.
+Player draws 7, and puts it on the field.
+Player 1 draws initial card.
+Player draws 3, and puts it on the field.
+Player 1 gets first turn.
+
+
+Turn 0 starts.
+Player 1's turn.
+Player 0's field: 7 (7)
+Player 1's field: 3 (3)
+Player 0's hand (10): 1 2 4 5 5 B B B B B
+Player 1's hand (10): 2 2 4 5 6 7 B M M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 1 plays 5.
+Player 1 ends his turn.
+Player 0's field: 7 (7)
+Player 1's field: 3 5 (8)
+
+
+Turn 1 starts.
+Player 0's turn.
+Player 0's field: 7 (7)
+Player 1's field: 3 5 (8)
+Player 0's hand (10): 1 2 4 5 5 B B B B B
+Player 1's hand (9): 2 2 4 6 7 B M M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 0 plays 2.
+Player 0 ends his turn.
+Player 0's field: 7 2 (9)
+Player 1's field: 3 5 (8)
+
+
+Turn 2 starts.
+Player 1's turn.
+Player 0's field: 7 2 (9)
+Player 1's field: 3 5 (8)
+Player 0's hand (9): 1 4 5 5 B B B B B
+Player 1's hand (9): 2 2 4 6 7 B M M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 1 plays 2.
+Player 1 ends his turn.
+Player 0's field: 7 2 (9)
+Player 1's field: 3 5 2 (10)
+
+
+Turn 3 starts.
+Player 0's turn.
+Player 0's field: 7 2 (9)
+Player 1's field: 3 5 2 (10)
+Player 0's hand (9): 1 4 5 5 B B B B B
+Player 1's hand (8): 2 4 6 7 B M M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 0 plays 4.
+Player 0 ends his turn.
+Player 0's field: 7 2 4 (13)
+Player 1's field: 3 5 2 (10)
+
+
+Turn 4 starts.
+Player 1's turn.
+Player 0's field: 7 2 4 (13)
+Player 1's field: 3 5 2 (10)
+Player 0's hand (8): 1 5 5 B B B B B
+Player 1's hand (8): 2 4 6 7 B M M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 1 plays 4.
+Player 1 ends his turn.
+Player 0's field: 7 2 4 (13)
+Player 1's field: 3 5 2 4 (14)
+
+
+Turn 5 starts.
+Player 0's turn.
+Player 0's field: 7 2 4 (13)
+Player 1's field: 3 5 2 4 (14)
+Player 0's hand (8): 1 5 5 B B B B B
+Player 1's hand (7): 2 6 7 B M M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 0 plays 5.
+Player 0 ends his turn.
+Player 0's field: 7 2 4 5 (18)
+Player 1's field: 3 5 2 4 (14)
+
+
+Turn 6 starts.
+Player 1's turn.
+Player 0's field: 7 2 4 5 (18)
+Player 1's field: 3 5 2 4 (14)
+Player 0's hand (7): 1 5 B B B B B
+Player 1's hand (7): 2 6 7 B M M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 1 plays 6.
+Player 1 ends his turn.
+Player 0's field: 7 2 4 5 (18)
+Player 1's field: 3 5 2 4 6 (20)
+
+
+Turn 7 starts.
+Player 0's turn.
+Player 0's field: 7 2 4 5 (18)
+Player 1's field: 3 5 2 4 6 (20)
+Player 0's hand (7): 1 5 B B B B B
+Player 1's hand (6): 2 7 B M M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 0 plays 5.
+Player 0 ends his turn.
+Player 0's field: 7 2 4 5 5 (23)
+Player 1's field: 3 5 2 4 6 (20)
+
+
+Turn 8 starts.
+Player 1's turn.
+Player 0's field: 7 2 4 5 5 (23)
+Player 1's field: 3 5 2 4 6 (20)
+Player 0's hand (6): 1 B B B B B
+Player 1's hand (6): 2 7 B M M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 1 plays 7.
+Player 1 ends his turn.
+Player 0's field: 7 2 4 5 5 (23)
+Player 1's field: 3 5 2 4 6 7 (27)
+
+
+Turn 9 starts.
+Player 0's turn.
+Player 0's field: 7 2 4 5 5 (23)
+Player 1's field: 3 5 2 4 6 7 (27)
+Player 0's hand (6): 1 B B B B B
+Player 1's hand (5): 2 B M M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 0 plays B.
+Player 0 ends his turn.
+Player 0's field: 7 2 4 5 5 (23)
+Player 1's field: 3 5 2 4 6 7X (20)
+
+
+Turn 10 starts.
+Player 1's turn.
+Player 0's field: 7 2 4 5 5 (23)
+Player 1's field: 3 5 2 4 6 7X (20)
+Player 0's hand (5): 1 B B B B
+Player 1's hand (5): 2 B M M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 1 plays M.
+Player 1 ends his turn.
+Player 0's field: 3 5 2 4 6 7X (20)
+Player 1's field: 7 2 4 5 5 (23)
+
+
+Turn 11 starts.
+Player 0's turn.
+Player 0's field: 3 5 2 4 6 7X (20)
+Player 1's field: 7 2 4 5 5 (23)
+Player 0's hand (5): 1 B B B B
+Player 1's hand (4): 2 B M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 0 plays B.
+Player 0 ends his turn.
+Player 0's field: 3 5 2 4 6 7X (20)
+Player 1's field: 7 2 4 5 5X (18)
+
+
+Turn 12 starts.
+Player 1's turn.
+Player 0's field: 3 5 2 4 6 7X (20)
+Player 1's field: 7 2 4 5 5X (18)
+Player 0's hand (4): 1 B B B
+Player 1's hand (4): 2 B M M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 1 plays M.
+Player 1 ends his turn.
+Player 0's field: 7 2 4 5 5X (18)
+Player 1's field: 3 5 2 4 6 7X (20)
+
+
+Turn 13 starts.
+Player 0's turn.
+Player 0's field: 7 2 4 5 5X (18)
+Player 1's field: 3 5 2 4 6 7X (20)
+Player 0's hand (4): 1 B B B
+Player 1's hand (3): 2 B M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 0 plays B.
+Player 0 ends his turn.
+Player 0's field: 7 2 4 5 5X (18)
+Player 1's field: 3 5 2 4 6X (14)
+
+
+Turn 14 starts.
+Player 1's turn.
+Player 0's field: 7 2 4 5 5X (18)
+Player 1's field: 3 5 2 4 6X (14)
+Player 0's hand (3): 1 B B
+Player 1's hand (3): 2 B M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 1 plays B.
+Player 1 ends his turn.
+Player 0's field: 7 2 4 5X (13)
+Player 1's field: 3 5 2 4 6X (14)
+
+
+Turn 15 starts.
+Player 0's turn.
+Player 0's field: 7 2 4 5X (13)
+Player 1's field: 3 5 2 4 6X (14)
+Player 0's hand (3): 1 B B
+Player 1's hand (2): 2 M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 0 plays B.
+Player 0 ends his turn.
+Player 0's field: 7 2 4 5X (13)
+Player 1's field: 3 5 2 4X (10)
+
+
+Turn 16 starts.
+Player 1's turn.
+Player 0's field: 7 2 4 5X (13)
+Player 1's field: 3 5 2 4X (10)
+Player 0's hand (2): 1 B
+Player 1's hand (2): 2 M
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 1 plays M.
+Player 1 ends his turn.
+Player 0's field: 3 5 2 4X (10)
+Player 1's field: 7 2 4 5X (13)
+
+
+Turn 17 starts.
+Player 0's turn.
+Player 0's field: 3 5 2 4X (10)
+Player 1's field: 7 2 4 5X (13)
+Player 0's hand (2): 1 B
+Player 1's hand (1): 2
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 0 plays B.
+Player 0 ends his turn.
+Player 0's field: 3 5 2 4X (10)
+Player 1's field: 7 2 4X (9)
+
+
+Turn 18 starts.
+Player 1's turn.
+Player 0's field: 3 5 2 4X (10)
+Player 1's field: 7 2 4X (9)
+Player 0's hand (1): 1
+Player 1's hand (1): 2
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 1 plays 2.
+Player 1 ends his turn.
+Player 0's field: 3 5 2 4X (10)
+Player 1's field: 7 2 2 (11)
+
+
+Turn 19 starts.
+Player 0's turn.
+Player 0's field: 3 5 2 4X (10)
+Player 1's field: 7 2 2 (11)
+Player 0's hand (1): 1
+Player 1's hand (0): 
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 0 plays 1.
+Player 0 ends his turn.
+Player 0's field: 3 5 2 4 (14)
+Player 1's field: 7 2 2 (11)
+
+
+Turn 20 starts.
+Player 1's turn.
+Player 0's field: 3 5 2 4 (14)
+Player 1's field: 7 2 2 (11)
+Player 0's hand (0): 
+Player 1's hand (0): 
+Cards remaining in player 0's deck: 5.
+Cards remaining in player 1's deck: 5.
+Player 0's score is higher.
+Player 0 wins this turn.
+
+
+Match between both players ends.
+Player 0's score: 2
+Player 1's score: 0
+
