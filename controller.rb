@@ -479,9 +479,6 @@ File.open("/dev/random") do |dev_random|
     srand(seed)
 end
 
-duel "basic", "basic"
-exit
-
 Players.each_key do |p0|
     Players.each_key do |p1|
         if p0 != p1
